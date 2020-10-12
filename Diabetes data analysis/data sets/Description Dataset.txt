@@ -1,2 +1,2 @@
-Diabetic dataset are orginal dataset
+Diabetic dataset are original dataset
 Train and test datasets which are output of Preprocessing
