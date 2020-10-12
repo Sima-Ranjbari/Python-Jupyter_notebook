@@ -1,8 +1,1 @@
-Notebooks for Data analysis 
-
-
-
-
-
-
-Notebooks for Medical imaging
+Notebooks for Preprocessing data, Classification, and Clustering  
